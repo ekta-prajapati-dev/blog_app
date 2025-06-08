@@ -1,0 +1,10 @@
+# Node
+server/node_modules/
+server/.env
+
+# React
+frontend/node_modules/
+frontend/.env
+
+# OS / misc
+.DS_Store
